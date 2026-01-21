@@ -12,3 +12,6 @@ vector<int> twoSum(vector<int>& nums, int target) {
     }
     return {};
 }
+
+// Time Complexity: O(n^2)
+
